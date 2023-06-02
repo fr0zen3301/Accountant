@@ -14,7 +14,7 @@ Go to DM with the bot and use /start button to start using this bot.
 There some commands that will help you:
 1.	/spent , /s , !spent, !s – after that command input an amount of your expense. For example: /spent 2000
 2.	/earned , /e , !earned , !e - after that command input an amount of your income. For example: /earned 2000
-3.	/history , /h - after this command input a period of your history. For example: /history day , /history week
+3.	/records , /r - after this command input a period of your history. For example: /r day , /r week
 
 
 database.py to describe methods to interaction with DB:
